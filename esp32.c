@@ -1,6 +1,5 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
-#include <string.h>
 //DEFINING PIN NUMBERS SO THAT IT CAN BE USED LATER 
 #define LED0 15         //PIN 15 USED FOR LED0 
 #define LED1 22         //PIN 22 USED FOR LED0
