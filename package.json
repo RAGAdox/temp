@@ -1,0 +1,9 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@clerk/backend": "^1.23.11"
+  }
+}
